@@ -1,0 +1,45 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sat Apr 08 18:02:05 GMT 2023","Sat Apr 08 18:02:05 GMT 2023","0","ui_tests","test_cases_page","TestCasesPage","","","User can see the 6 case","
+        test checks availability of each case page(doesn't check content!)
+        "
+"broken","Sat Apr 08 18:02:04 GMT 2023","Sat Apr 08 18:02:04 GMT 2023","0","ui_tests","test_cases_page","TestCasesPage","","","User can see the 5 case","
+        test checks availability of each case page(doesn't check content!)
+        "
+"broken","Sat Apr 08 18:02:06 GMT 2023","Sat Apr 08 18:02:06 GMT 2023","0","ui_tests","test_cases_page","TestCasesPage","","","User can see the 7 case","
+        test checks availability of each case page(doesn't check content!)
+        "
+"broken","Sat Apr 08 18:02:08 GMT 2023","Sat Apr 08 18:02:08 GMT 2023","0","ui_tests","test_main_page","TestMainPage","","","User can see and go to the """" link","user can go to all top links from the main page"
+"broken","Sat Apr 08 18:02:05 GMT 2023","Sat Apr 08 18:02:05 GMT 2023","0","ui_tests","test_cases_page","TestCasesPage","","","User can see the 9 case","
+        test checks availability of each case page(doesn't check content!)
+        "
+"broken","Sat Apr 08 18:02:08 GMT 2023","Sat Apr 08 18:02:08 GMT 2023","0","ui_tests","test_form_from_main_page","TestMainPageForm","","","User sends an incorrect data into the request form","User is scrolling to the bottom and sends wrong data"
+"broken","Sat Apr 08 18:02:07 GMT 2023","Sat Apr 08 18:02:07 GMT 2023","0","ui_tests","test_form_from_main_page","TestMainPageForm","","","User sends an incorrect data into the request form","User is scrolling to the bottom and sends wrong data"
+"broken","Sat Apr 08 18:02:10 GMT 2023","Sat Apr 08 18:02:10 GMT 2023","0","ui_tests","test_main_page","TestMainPage","","","User can see and go to the ""{element}"" link","
+        user can go to all bottom links from the main page
+        "
+"broken","Sat Apr 08 18:02:08 GMT 2023","Sat Apr 08 18:02:08 GMT 2023","0","ui_tests","test_main_page","TestMainPage","","","User can see and go to the """" link","user can go to all top links from the main page"
+"broken","Sat Apr 08 18:02:07 GMT 2023","Sat Apr 08 18:02:07 GMT 2023","0","ui_tests","test_form_from_main_page","TestMainPageForm","","","User sends an incorrect data into the request form","User is scrolling to the bottom and sends wrong data"
+"broken","Sat Apr 08 18:02:06 GMT 2023","Sat Apr 08 18:02:06 GMT 2023","0","ui_tests","test_form_from_main_page","TestMainPageForm","","","User sends an incorrect data into the request form","User is scrolling to the bottom and sends wrong data"
+"broken","Sat Apr 08 18:02:08 GMT 2023","Sat Apr 08 18:02:08 GMT 2023","0","ui_tests","test_main_page","TestMainPage","","","User can see and go to the ""about-us"" link","user can go to all top links from the main page"
+"broken","Sat Apr 08 18:02:03 GMT 2023","Sat Apr 08 18:02:03 GMT 2023","0","ui_tests","test_cases_page","TestCasesPage","","","User can see the 2 case","
+        test checks availability of each case page(doesn't check content!)
+        "
+"broken","Sat Apr 08 18:02:10 GMT 2023","Sat Apr 08 18:02:10 GMT 2023","0","ui_tests","test_main_page","TestMainPage","","","User can see and go to the ""contacts"" link","user can go to all top links from the main page"
+"broken","Sat Apr 08 18:02:09 GMT 2023","Sat Apr 08 18:02:09 GMT 2023","0","ui_tests","test_main_page","TestMainPage","","","User can see and go to the ""cases"" link","user can go to all top links from the main page"
+"broken","Sat Apr 08 18:02:09 GMT 2023","Sat Apr 08 18:02:09 GMT 2023","0","ui_tests","test_main_page","TestMainPage","","","User can see and go to the """" link","user can go to all top links from the main page"
+"broken","Sat Apr 08 18:02:03 GMT 2023","Sat Apr 08 18:02:03 GMT 2023","0","ui_tests","test_cases_page","TestCasesPage","","","User can see the 4 case","
+        test checks availability of each case page(doesn't check content!)
+        "
+"skipped","Sat Apr 08 18:02:06 GMT 2023","Sat Apr 08 18:02:06 GMT 2023","0","ui_tests","test_form_from_main_page","TestMainPageForm","","","User sends a correct data into the form","User is scrolling to the bottom and sends correct data"
+"broken","Sat Apr 08 18:02:11 GMT 2023","Sat Apr 08 18:02:11 GMT 2023","0","ui_tests","test_main_page","TestMainPage","","","User can see and go to the ""{element}"" link","
+        user can go to all bottom links from the main page
+        "
+"broken","Sat Apr 08 18:02:01 GMT 2023","Sat Apr 08 18:02:01 GMT 2023","0","ui_tests","test_cases_page","TestCasesPage","","","User can see the 1 case","
+        test checks availability of each case page(doesn't check content!)
+        "
+"broken","Sat Apr 08 18:02:01 GMT 2023","Sat Apr 08 18:02:01 GMT 2023","0","ui_tests","test_cases_page","TestCasesPage","","","User can see the 3 case","
+        test checks availability of each case page(doesn't check content!)
+        "
+"broken","Sat Apr 08 18:02:04 GMT 2023","Sat Apr 08 18:02:04 GMT 2023","0","ui_tests","test_cases_page","TestCasesPage","","","User can see the 8 case","
+        test checks availability of each case page(doesn't check content!)
+        "
