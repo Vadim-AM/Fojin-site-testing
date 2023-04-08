@@ -1,0 +1,45 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Apr 08 18:16:41 GMT 2023","Sat Apr 08 18:16:42 GMT 2023","1339","ui_tests","test_main_page","TestMainPage","","","User can see and go to the ""about-us"" link","user can go to all top links from the main page"
+"passed","Sat Apr 08 18:16:36 GMT 2023","Sat Apr 08 18:16:37 GMT 2023","1214","ui_tests","test_form_from_main_page","TestMainPageForm","","","User sends an incorrect data into the request form","User is scrolling to the bottom and sends wrong data"
+"passed","Sat Apr 08 18:16:30 GMT 2023","Sat Apr 08 18:16:31 GMT 2023","1248","ui_tests","test_form_from_main_page","TestMainPageForm","","","User sends an incorrect data into the request form","User is scrolling to the bottom and sends wrong data"
+"passed","Sat Apr 08 18:16:25 GMT 2023","Sat Apr 08 18:16:26 GMT 2023","1338","ui_tests","test_cases_page","TestCasesPage","","","User can see the 7 case","
+        test checks availability of each case page(doesn't check content!)
+        "
+"passed","Sat Apr 08 18:16:37 GMT 2023","Sat Apr 08 18:16:37 GMT 2023","322","ui_tests","test_main_page","TestMainPage","","","User can see and go to the """" link","user can go to all top links from the main page"
+"passed","Sat Apr 08 18:16:20 GMT 2023","Sat Apr 08 18:16:21 GMT 2023","1473","ui_tests","test_cases_page","TestCasesPage","","","User can see the 6 case","
+        test checks availability of each case page(doesn't check content!)
+        "
+"passed","Sat Apr 08 18:17:05 GMT 2023","Sat Apr 08 18:17:07 GMT 2023","2207","ui_tests","test_main_page","TestMainPage","","","User can see and go to the ""{element}"" link","
+        user can go to all bottom links from the main page
+        "
+"skipped","Sat Apr 08 18:16:21 GMT 2023","Sat Apr 08 18:16:21 GMT 2023","0","ui_tests","test_form_from_main_page","TestMainPageForm","","","User sends a correct data into the form","User is scrolling to the bottom and sends correct data"
+"passed","Sat Apr 08 18:16:46 GMT 2023","Sat Apr 08 18:16:47 GMT 2023","1342","ui_tests","test_main_page","TestMainPage","","","User can see and go to the ""cases"" link","user can go to all top links from the main page"
+"passed","Sat Apr 08 18:16:41 GMT 2023","Sat Apr 08 18:16:42 GMT 2023","346","ui_tests","test_main_page","TestMainPage","","","User can see and go to the """" link","user can go to all top links from the main page"
+"passed","Sat Apr 08 18:16:47 GMT 2023","Sat Apr 08 18:16:47 GMT 2023","320","ui_tests","test_main_page","TestMainPage","","","User can see and go to the """" link","user can go to all top links from the main page"
+"passed","Sat Apr 08 18:16:06 GMT 2023","Sat Apr 08 18:16:08 GMT 2023","1570","ui_tests","test_cases_page","TestCasesPage","","","User can see the 3 case","
+        test checks availability of each case page(doesn't check content!)
+        "
+"passed","Sat Apr 08 18:16:15 GMT 2023","Sat Apr 08 18:16:17 GMT 2023","1378","ui_tests","test_cases_page","TestCasesPage","","","User can see the 5 case","
+        test checks availability of each case page(doesn't check content!)
+        "
+"passed","Sat Apr 08 18:16:06 GMT 2023","Sat Apr 08 18:16:08 GMT 2023","1524","ui_tests","test_cases_page","TestCasesPage","","","User can see the 1 case","
+        test checks availability of each case page(doesn't check content!)
+        "
+"passed","Sat Apr 08 18:16:15 GMT 2023","Sat Apr 08 18:16:17 GMT 2023","1421","ui_tests","test_cases_page","TestCasesPage","","","User can see the 8 case","
+        test checks availability of each case page(doesn't check content!)
+        "
+"passed","Sat Apr 08 18:16:20 GMT 2023","Sat Apr 08 18:16:21 GMT 2023","1385","ui_tests","test_cases_page","TestCasesPage","","","User can see the 9 case","
+        test checks availability of each case page(doesn't check content!)
+        "
+"passed","Sat Apr 08 18:16:11 GMT 2023","Sat Apr 08 18:16:12 GMT 2023","1465","ui_tests","test_cases_page","TestCasesPage","","","User can see the 4 case","
+        test checks availability of each case page(doesn't check content!)
+        "
+"passed","Sat Apr 08 18:16:32 GMT 2023","Sat Apr 08 18:16:33 GMT 2023","1246","ui_tests","test_form_from_main_page","TestMainPageForm","","","User sends an incorrect data into the request form","User is scrolling to the bottom and sends wrong data"
+"passed","Sat Apr 08 18:16:51 GMT 2023","Sat Apr 08 18:17:01 GMT 2023","10084","ui_tests","test_main_page","TestMainPage","","","User can see and go to the ""{element}"" link","
+        user can go to all bottom links from the main page
+        "
+"passed","Sat Apr 08 18:16:26 GMT 2023","Sat Apr 08 18:16:28 GMT 2023","1350","ui_tests","test_form_from_main_page","TestMainPageForm","","","User sends an incorrect data into the request form","User is scrolling to the bottom and sends wrong data"
+"passed","Sat Apr 08 18:16:51 GMT 2023","Sat Apr 08 18:16:53 GMT 2023","1355","ui_tests","test_main_page","TestMainPage","","","User can see and go to the ""contacts"" link","user can go to all top links from the main page"
+"passed","Sat Apr 08 18:16:11 GMT 2023","Sat Apr 08 18:16:12 GMT 2023","1454","ui_tests","test_cases_page","TestCasesPage","","","User can see the 2 case","
+        test checks availability of each case page(doesn't check content!)
+        "
